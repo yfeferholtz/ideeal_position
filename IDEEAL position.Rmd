@@ -1,0 +1,24 @@
+---
+title: "IDEEAL - Infectious Disease Emergence and the Economics of Altered Landscapes"
+author: "EcoHealth Alliance"
+date: "7/11/2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo EHA")
+
+```
+
+# Introduction
+
+## Emerging infectious disease (EID) outbreaks caused by wildlife pathogens are increasing in frequency and economic impact – more than half of the most recent EIDs, including SARS Coronavirus, Ebola, and Zika virus, had a wildlife origin. For example, Nipah Virus cost the Malaysian economy around USD$550 million, while Ebola, Avian Influenza and SARS emergence cost the global economy more than USD$50 billion. Among all factors for the increase in disease emergence risk, human land-use change has been shown to be the number one cause (cite). Advancing the knowledge on these factors and effects from them is essential to develop strategies to minimize and manage the public costs burden of future EIDs.  
+
+## The goal of the IDEEAL project is to (1) develop knowledge about the benefits of conserving forests to regulate diseases (2) estimate the economic benefits and costs of converting land, (3) provide governments, industry, and society with data and tools to make informed land use decisions. 
+
+## This project premise is that any land use decision should maximize private and public well-being. Private decisions on land development reduce ecosystem services that benefit the public. The balance is achieved by choosing to develop areas where ecosystem services are the lowest and industry’s net benefits are the highest, as well as by conserving areas where ecosystem services are highest while industry’s net benefits yield is the lowest. At the same time, the maximum private and public well-being is achieved choosing each year the optimal amount of land to develop and to conserve given all the private and public costs.  
+
+## Through including disease regulation as an ecosystem service, we quantify the economic costs for humans of developing land for agricultural production. Our results can be used to inform future land use planning, prioritize areas for conservation as well as to prevent the emergence of infectious diseases linked to deforestation.
+
